@@ -1,3 +1,4 @@
+#This One is Using CUI! THANKS 😊
 import random
 
 name = input ("What is Your Name?:-  ")
@@ -34,7 +35,7 @@ while turns > 0:
         if turns == 0:
             print("You Loose")
 
-
+#This is using GUI 
 """import random
 import tkinter as tk
 from tkinter import messagebox
